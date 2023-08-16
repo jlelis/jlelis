@@ -22,7 +22,7 @@
 
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeferson-lelis)
-[![Linkedin](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5517982306789)
+
 
 
 <img height="170" style="border-radius: 2px;" alt="GIF" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=jlelis&show_icons=true&hide_border=true&count_private=true&theme=nightowl"/> <img height="170" style="border-radius: 5px;" alt="GIF" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=jlelis&layout=compact&theme=nightowl" />
